@@ -4,7 +4,7 @@
   "description": "Universal React avatar component makes it possible to generate avatars based on user information.",
   "main": "lib/index.js",
   "engines": {
-    "node": "8.x.x"
+    "node": ">=8.x.x"
   },
   "scripts": {
     "clean": "rm -rf ./lib/*",
